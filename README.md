@@ -20,7 +20,7 @@
 name: "Dannie FIENI"
 role: "CyberSecurity Apprentice & Photographer"
 location: "France | Intenational "
-education: "IPSSI Nice"
+education: "Masters in Cybersecurity & Cloud Computing (Currently) | IPSSI Nice"
 current_focus: ["Network Security", "Ethical Hacking", "Digital Forensics", "Portrait Photography"]
 philosophy: "Security through knowledge, beauty through perspective"
 ```
@@ -33,6 +33,7 @@ philosophy: "Security through knowledge, beauty through perspective"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juniorfieni/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Juniorfieni_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juniorfieni_)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/JuniorFieni/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://drive.google.com/drive/folders/1Rmx1K9XzZEF_jSTD3LVMpaLIxFgqKMrF?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorfieni@jufigroup.com)
 
