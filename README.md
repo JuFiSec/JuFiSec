@@ -1,4 +1,5 @@
 # 🛡️ Welcome to My Digital Fortress 📸
+# 🏅 Dannie I. Junior FIENI 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CyberSecurity+Apprentice+%F0%9F%94%90;Photography+Enthusiast+%F0%9F%93%B7;Digital+Security+%2B+Visual+Art;Protecting+%26+Capturing+the+World" alt="Typing SVG" />
