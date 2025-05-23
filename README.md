@@ -1,12 +1,12 @@
 # 🛡️ Welcome to My Digital Fortress 📸
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CyberSecurity+Intern+%F0%9F%94%90;Photography+Enthusiast+%F0%9F%93%B7;Digital+Security+%2B+Visual+Art;Protecting+%26+Capturing+the+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CyberSecurity+Apprentice+%F0%9F%94%90;Photography+Enthusiast+%F0%9F%93%B7;Digital+Security+%2B+Visual+Art;Protecting+%26+Capturing+the+World" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00F7FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=00F7FF&logo=github&label=Followers" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=JuFiSec&color=00F7FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/JuFiSec?style=flat-square&color=00F7FF&logo=github&label=Followers" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Focus-CyberSecurity%20%26%20Photography-brightgreen?style=flat-square" alt="Focus"/>
 </p>
 
@@ -17,14 +17,26 @@
 > *"Where cybersecurity meets creativity - protecting digital worlds while capturing beautiful moments"*
 
 ```yaml
-name: "Your Name"
-role: "CyberSecurity Intern & Photographer"
-location: "Your Location"
-education: "Your Institution"
+name: "Dannie FIENI"
+role: "CyberSecurity Apprentice & Photographer"
+location: "France | Intenational "
+education: "IPSSI Nice"
 current_focus: ["Network Security", "Ethical Hacking", "Digital Forensics", "Portrait Photography"]
 philosophy: "Security through knowledge, beauty through perspective"
 ```
+---
 
+## 🌐 **LET'S CONNECT**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juniorfieni/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Juniorfieni_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juniorfieni_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://drive.google.com/drive/folders/1Rmx1K9XzZEF_jSTD3LVMpaLIxFgqKMrF?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorfieni@jufigroup.com)
+
+</div>
 ---
 
 ## 🛡️ **CYBERSECURITY ARSENAL**
@@ -87,12 +99,12 @@ philosophy: "Security through knowledge, beauty through perspective"
 ### 📷 **Equipment & Software**
 ```yaml
 Cameras:
-  - "Your Camera Model (e.g., Canon EOS R5)"
-  - "Secondary Camera"
+  - "Canon EOS R"
+  - "Canon 5D Mark IV"
   
 Lenses:
   - "50mm f/1.4 (Portraits)"
-  - "24-70mm f/2.8 (Versatility)"
+  - "24-70mm f/2.8, 70-200mm f/2.8 (Versatility)"
   - "100mm Macro (Technical shots)"
   
 Software:
@@ -107,18 +119,30 @@ Software:
 
 ### 💼 **CyberSecurity Internships**
 
-#### 🚀 **Current Role: CyberSecurity Intern**
-**Company Name** | *Month Year - Present*
-- 🔍 Conducted vulnerability assessments on enterprise networks
-- 🛡️ Implemented security monitoring solutions using SIEM tools
-- 📊 Analyzed security incidents and created comprehensive reports
-- 🎯 Reduced security response time by X% through automation scripts
+#### 🚀 **Previous Experience : Technical Project Manager**
+**JUFI GROUP** | *January 2022 - November 2025*
+- 🔍 Infrastructure deployment , 
+- 🛡️ IT Project Management
+- 📊 Coordination technique
+- 🎯 Setting up workstations
 
-#### 🎯 **Previous Experience**
-**Company/Organization** | *Duration*
-- 🔐 Assisted in penetration testing engagements
-- 📈 Contributed to security awareness training programs
-- 🚨 Monitored security alerts and performed initial triage
+#### 🎯 **Previous Experience : Network Administrator**
+**KFC Dakar** | *Duration*
+- 🔐 Supervision and maintenance of the computer equipment (multi-site)
+- 📈 User support, hardware/logical troubleshooting
+- 🚨 Implement access control and backup procedures
+
+#### 🚀 **Previous Experience : Support Technic**
+**OFG MEDIA GROUP** | *December 2021 - May 2022*
+- 🔍 Repair and maintenance of computer equipment , 
+- 🛡️ Application Installation
+- 📈 Office Support
+
+#### 🚀 **Previous Experience : IT Support Technician**
+**OFG MEDIA GROUP** | *January 2018 - January 2019*
+- 🌐 Installation of workstations, printers, network connections , 
+- 🖥️ Application Installation
+- 📡 User training and support
 
 ---
 
@@ -128,13 +152,42 @@ Software:
 <p align="left">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+"/>
 <img src="https://img.shields.io/badge/CompTIA-Network%2B-0078D4?style=for-the-badge&logo=comptia&logoColor=white" alt="Network+"/>
-<!-- Add your actual certifications -->
+<!-- The Global Leadership Summit – Certificate of Achievement -->
+<!-- Web & WordPress Development -->
+<!-- Best African Photographer 2021 - African Talent Awards -->
 </p>
 
 ### 📚 **Currently Pursuing**
 - [ ] **CEH (Certified Ethical Hacker)**
 - [ ] **CISSP Associate**
 - [ ] **AWS Security Specialty**
+
+---
+
+## 🎯 **CAREER OBJECTIVES**
+
+```yaml
+Short_Term_Goals:
+  - "Complete CEH certification by 2025"
+  - "Contribute to 3 major open-source security projects"
+  - "Launch professional photography side business"
+
+Long_Term_Vision:
+  - "Transition to full-time CyberSecurity Analyst role"
+  - "Specialize in Cloud Security & DevSecOps"
+  - "Combine technical expertise with creative problem-solving"
+  - "Mentor upcoming cybersecurity professionals"
+```
+
+---
+
+## 💡 **TESTIMONIALS**
+
+> *"Dannie brings a unique perspective to cybersecurity, combining technical rigor with creative problem-solving. Their photography background gives them an exceptional eye for detail in security analysis."*  
+> **— Akpa Armelle-ESM, JuFi Group**
+
+> *"Exceptional work ethic and natural curiosity. Dannie consistently goes above and beyond in their internship responsibilities."*  
+> **— Andreas MOUZONG D. , DevOps Engineer Consultant, Klanik**
 
 ---
 
@@ -179,47 +232,6 @@ Software:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
-
----
-
-## 🎯 **CAREER OBJECTIVES**
-
-```yaml
-Short_Term_Goals:
-  - "Complete CEH certification by [Date]"
-  - "Contribute to 3 major open-source security projects"
-  - "Launch professional photography side business"
-
-Long_Term_Vision:
-  - "Transition to full-time CyberSecurity Analyst role"
-  - "Specialize in Cloud Security & DevSecOps"
-  - "Combine technical expertise with creative problem-solving"
-  - "Mentor upcoming cybersecurity professionals"
-```
-
----
-
-## 🌐 **LET'S CONNECT**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourphotography)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 💡 **TESTIMONIALS**
-
-> *"[Your Name] brings a unique perspective to cybersecurity, combining technical rigor with creative problem-solving. Their photography background gives them an exceptional eye for detail in security analysis."*  
-> **— Supervisor Name, Company**
-
-> *"Exceptional work ethic and natural curiosity. [Your Name] consistently goes above and beyond in their internship responsibilities."*  
-> **— Mentor Name, Organization**
 
 ---
 
