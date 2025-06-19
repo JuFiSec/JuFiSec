@@ -165,8 +165,8 @@ Software:
 
 ### 📚 **Currently Pursuing**
 - [ ] **CEH (Certified Ethical Hacker)**
-- [ ] **CISSP Associate**
-- [ ] **AWS Security Specialty**
+- [ ] **CCNA**
+- [ ] **AWS Cloud Practitioner**
 
 ---
 
