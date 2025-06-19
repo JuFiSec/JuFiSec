@@ -201,6 +201,13 @@ Long_Term_Vision:
 
 ### 🔐 **CyberSecurity Projects**
 
+#### **Project 1: AWS Ecoshop Cloud Deployment**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=ecoshop-aws-deployment&theme=tokyonight)](https://github.com/JuFiSec/ecoshop-aws-deployment)
+- **Tech Stack:** AWS (VPC, EC2, RDS, ALB, SGs, NAT Gateway, IGW), Bash (for User Data), PHP, MySQL
+- **Features:** Multi-AZ high availability, Scalable web application infrastructure, Secure network segmentation (Public/Private subnets, Bastion Host), Automated deployment scripts (User Data)
+- **Impact:** Deployed a robust, fault-tolerant e-commerce application environment, demonstrating proficiency in cloud infrastructure setup and management.
+
+  
 #### **Project 1: Network Security Scanner**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=network-security-scanner&theme=tokyonight)](https://github.com/yourusername/network-security-scanner)
 - **Tech Stack:** Python, Nmap, Scapy
