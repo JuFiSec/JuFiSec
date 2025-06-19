@@ -222,12 +222,10 @@ Long_Term_Vision:
 
 ### 📸 **Photography Projects**
 
-#### **Project 3: Photography Portfolio Website**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=photography-portfolio&theme=tokyonight)](https://github.com/yourusername/photography-portfolio)
-- **Tech Stack:** React, Node.js, MongoDB
-- **Features:** Gallery management, Client booking system
-- **Showcase:** [Your Portfolio Website](https://yourportfolio.com)
-
+#### **Project 3: JuFi Group Communication Agency Website**
+- **Tech Stack:** [Technologies used for the website, e.g., HTML, CSS, JavaScript, WordPress, PHP, MySQL]
+- **Features:** Professional website design, Digital strategy implementation, Content marketing, Social media management, Branding, Advertising.
+- **Showcase:** [JuFi Group Website](https://jufigroup.com)
 ---
 
 ## 📊 **GITHUB ANALYTICS**
