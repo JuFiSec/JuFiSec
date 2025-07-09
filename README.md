@@ -215,11 +215,12 @@ Long_Term_Vision:
 - **Features:** Defined and provisioned a resource group and a storage account on Azure using Terraform; Managed the complete resource lifecycle using core Terraform commands (`init`, `plan`, `apply`, `destroy`); Configured resource attributes such as location, performance tier, and replication type; Handled infrastructure modifications, including changing the region and adding tags; Simulated and corrected configuration drift.
 - **Impact:** Successfully deployed a reproducible and automated cloud infrastructure, demonstrating an understanding of fundamental IaC concepts and proficiency in using standard tools for managing resources on a major cloud platform.
 
-#### **Project 2: SIEM Dashboard**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=siem-dashboard&theme=tokyonight)](https://github.com/yourusername/siem-dashboard)
-- **Tech Stack:** ELK Stack, Python, JavaScript
-- **Features:** Real-time threat visualization, Alert management
-- **Achievement:** Improved incident response by 40%
+#### **Project 2: AWS & Azure Secure Interconnection**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=aws-azure-interconnection&theme=tokyonight)](https://github.com/JuFiSec/aws-azure-interconnection)
+
+- **Tech Stack:** Terraform, GitHub Actions, Bash, AWS (EC2, VPC, S3, CloudWatch), Azure (SQL Database, Firewall, Monitor, Logic Apps), SSL/TLS.
+- **Features:** Complete Infrastructure as Code (IaC) setup using Terraform to provision resources across both AWS and Azure; Fully automated CI/CD pipeline with GitHub Actions for validation, testing, and deployment; Establishes a secure communication channel between an AWS EC2 instance and an Azure SQL Database; Integrated real-time monitoring and alerting using AWS CloudWatch and Azure Monitor.
+- **Impact:** Engineered a production-ready, multi-cloud solution demonstrating advanced skills in IaC, automation, and secure networking. Achieved a fully automated deployment time of approximately 10 minutes, significantly reducing manual setup and configuration errors.
 
 ### 📸 **Photography Projects**
 
