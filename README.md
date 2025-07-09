@@ -24,9 +24,10 @@
 ```yaml
 name: "Dannie FIENI"
 role: "CyberSecurity Apprentice & Photographer"
-location: "France | Intenational "
+location: "France | International"
 education: "Masters in Cybersecurity & Cloud Computing (Currently) | IPSSI Nice"
 current_focus: ["Network Security", "Ethical Hacking", "Digital Forensics", "Portrait Photography"]
+technologies: ["Cloud Computing", "IaC (Terraform)", "AWS", "Azure", "Docker", "Cluster"]
 philosophy: "Security through knowledge, beauty through perspective"
 ```
 ---
