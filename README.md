@@ -215,7 +215,7 @@ Long_Term_Vision:
 - **Features:** Defined and provisioned a resource group and a storage account on Azure using Terraform; Managed the complete resource lifecycle using core Terraform commands (`init`, `plan`, `apply`, `destroy`); Configured resource attributes such as location, performance tier, and replication type; Handled infrastructure modifications, including changing the region and adding tags; Simulated and corrected configuration drift.
 - **Impact:** Successfully deployed a reproducible and automated cloud infrastructure, demonstrating an understanding of fundamental IaC concepts and proficiency in using standard tools for managing resources on a major cloud platform.
 
-#### **Project 2: AWS & Azure Secure Interconnection**
+#### **Project 3: AWS & Azure Secure Interconnection**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=aws-azure-interconnection&theme=tokyonight)](https://github.com/JuFiSec/aws-azure-interconnection)
 
 - **Tech Stack:** Terraform, GitHub Actions, Bash, AWS (EC2, VPC, S3, CloudWatch), Azure (SQL Database, Firewall, Monitor, Logic Apps), SSL/TLS.
