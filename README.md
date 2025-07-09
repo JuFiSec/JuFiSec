@@ -208,11 +208,12 @@ Long_Term_Vision:
 - **Impact:** Deployed a robust, fault-tolerant e-commerce application environment, demonstrating proficiency in cloud infrastructure setup and management.
 
   
-#### **Project 1: Network Security Scanner**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=network-security-scanner&theme=tokyonight)](https://github.com/yourusername/network-security-scanner)
-- **Tech Stack:** Python, Nmap, Scapy
-- **Features:** Automated vulnerability scanning, Report generation
-- **Impact:** Reduced manual scanning time by 75%
+#### **Project 2: Static Infrastructure Deployment on Azure with Terraform**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-tp1&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-tp1)
+
+- **Tech Stack:** Terraform, Microsoft Azure, Azure CLI, HCL (HashiCorp Configuration Language).
+- **Features:** Defined and provisioned a resource group and a storage account on Azure using Terraform; Managed the complete resource lifecycle using core Terraform commands (`init`, `plan`, `apply`, `destroy`); Configured resource attributes such as location, performance tier, and replication type; Handled infrastructure modifications, including changing the region and adding tags; Simulated and corrected configuration drift.
+- **Impact:** Successfully deployed a reproducible and automated cloud infrastructure, demonstrating an understanding of fundamental IaC concepts and proficiency in using standard tools for managing resources on a major cloud platform.
 
 #### **Project 2: SIEM Dashboard**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=siem-dashboard&theme=tokyonight)](https://github.com/yourusername/siem-dashboard)
