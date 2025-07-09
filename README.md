@@ -200,28 +200,38 @@ Long_Term_Vision:
 
 ## 🚀 **FEATURED PROJECTS**
 
-### 🔐 **CyberSecurity Projects**
+### ☁️ Cloud & Infrastructure Projects
 
-#### **Project 1: AWS Ecoshop Cloud Deployment**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=ecoshop-aws-deployment&theme=tokyonight)](https://github.com/JuFiSec/ecoshop-aws-deployment)
-- **Tech Stack:** AWS (VPC, EC2, RDS, ALB, SGs, NAT Gateway, IGW), Bash (for User Data), PHP, MySQL
-- **Features:** Multi-AZ high availability, Scalable web application infrastructure, Secure network segmentation (Public/Private subnets, Bastion Host), Automated deployment scripts (User Data)
-- **Impact:** Deployed a robust, fault-tolerant e-commerce application environment, demonstrating proficiency in cloud infrastructure setup and management.
+#### **Project 1: Parametrizable Network Infrastructure on Azure**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=infrastructure-reseau-parametrable-terraform&theme=tokyonight)](https://github.com/JuFiSec/infrastructure-reseau-parametrable-terraform)
 
+- **Tech Stack:** Terraform, Microsoft Azure, Azure CLI, HCL.
+- [cite_start]**Features:** Developed a fully parametrizable network infrastructure using Terraform variables [cite: 1, 4][cite_start], `outputs` [cite: 4][cite_start], and `.tfvars` files [cite: 5] to manage multiple environments (dev/prod).
+- [cite_start]**Impact:** Transformed a static configuration into a flexible, reusable, and maintainable IaC solution, demonstrating best practices in code organization [cite: 370, 371] and environment management.
+<br>
+
+#### **Project 2: AWS & Azure Secure Interconnection**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=aws-azure-interconnection&theme=tokyonight)](https://github.com/JuFiSec/aws-azure-interconnection)
+
+- **Tech Stack:** Terraform, GitHub Actions, Bash, AWS (EC2, VPC, S3, CloudWatch), Azure (SQL Database, Firewall, Monitor, Logic Apps), SSL/TLS.
+- **Features:** Complete Infrastructure as Code (IaC) setup using Terraform to provision resources across both AWS and Azure; Fully automated CI/CD pipeline with GitHub Actions for validation, testing, and deployment; Establishes a secure communication channel between an AWS EC2 instance and an Azure SQL Database; Integrated real-time monitoring and alerting using AWS CloudWatch and Azure Monitor.
+- **Impact:** Engineered a production-ready, multi-cloud solution demonstrating advanced skills in IaC, automation, and secure networking. Achieved a fully automated deployment time of approximately 10 minutes, significantly reducing manual setup and configuration errors.
   
-#### **Project 2: Static Infrastructure Deployment on Azure with Terraform**
+
+#### **Project 3: Static Infrastructure Deployment on Azure with Terraform**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-tp1&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-tp1)
 
 - **Tech Stack:** Terraform, Microsoft Azure, Azure CLI, HCL (HashiCorp Configuration Language).
 - **Features:** Defined and provisioned a resource group and a storage account on Azure using Terraform; Managed the complete resource lifecycle using core Terraform commands (`init`, `plan`, `apply`, `destroy`); Configured resource attributes such as location, performance tier, and replication type; Handled infrastructure modifications, including changing the region and adding tags; Simulated and corrected configuration drift.
 - **Impact:** Successfully deployed a reproducible and automated cloud infrastructure, demonstrating an understanding of fundamental IaC concepts and proficiency in using standard tools for managing resources on a major cloud platform.
 
-#### **Project 3: AWS & Azure Secure Interconnection**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=aws-azure-interconnection&theme=tokyonight)](https://github.com/JuFiSec/aws-azure-interconnection)
 
-- **Tech Stack:** Terraform, GitHub Actions, Bash, AWS (EC2, VPC, S3, CloudWatch), Azure (SQL Database, Firewall, Monitor, Logic Apps), SSL/TLS.
-- **Features:** Complete Infrastructure as Code (IaC) setup using Terraform to provision resources across both AWS and Azure; Fully automated CI/CD pipeline with GitHub Actions for validation, testing, and deployment; Establishes a secure communication channel between an AWS EC2 instance and an Azure SQL Database; Integrated real-time monitoring and alerting using AWS CloudWatch and Azure Monitor.
-- **Impact:** Engineered a production-ready, multi-cloud solution demonstrating advanced skills in IaC, automation, and secure networking. Achieved a fully automated deployment time of approximately 10 minutes, significantly reducing manual setup and configuration errors.
+
+#### **Project 4: AWS Ecoshop Cloud Deployment**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=ecoshop-aws-deployment&theme=tokyonight)](https://github.com/JuFiSec/ecoshop-aws-deployment)
+- **Tech Stack:** AWS (VPC, EC2, RDS, ALB, SGs, NAT Gateway, IGW), Bash (for User Data), PHP, MySQL
+- **Features:** Multi-AZ high availability, Scalable web application infrastructure, Secure network segmentation (Public/Private subnets, Bastion Host), Automated deployment scripts (User Data)
+- **Impact:** Deployed a robust, fault-tolerant e-commerce application environment, demonstrating proficiency in cloud infrastructure setup and management.
 
 ### 📸 **Photography Projects**
 
