@@ -145,7 +145,7 @@ Software:
 - 📈 Office Support
 
 #### 🚀 **Previous Experience : IT Support Technician**
-**OFG MEDIA GROUP** | *January 2018 - January 2019*
+**OUDJAT GROUP** | *January 2018 - January 2019*
 - 🌐 Installation of workstations, printers, network connections , 
 - 🖥️ Application Installation
 - 📡 User training and support
