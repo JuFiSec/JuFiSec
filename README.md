@@ -202,18 +202,18 @@ Long_Term_Vision:
 
 ### ☁️ Cloud & Infrastructure Projects
 
-#### **Project 1: Parametrizable Azure Infrastructure with Terraform**
-**[[README Card]](https://github.com/FIENI-DANNIE/terraform-azure-solo)** **[[Live Demo]](http://YOUR-VM-IP)** **[[Architecture Diagram]](screenshots/azure-architecture-diagram.jpg)**
+#### **Project 1: TP Terraform Azure - Infrastructure de base**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-solo&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-solo)
 
-**Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Nginx.
+**Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Nginx, Shell Script.
 
-**[cite_start]**Features:** Developed a fully parametrizable cloud infrastructure using Terraform variables **[cite: 1, 4]**[cite_start], outputs **[cite: 4]**[cite_start], and `.tfvars` files **[cite: 5]** to manage multiple environments (dev/prod).
+**[cite_start]**Features:** Developed a fully parametrizable cloud infrastructure using Terraform variables **[cite: 1, 4]**[cite_start], outputs **[cite: 4]**[cite_start], and `.tfvars` files **[cite: 5]** to manage Azure environments with complete automation scripts.
 
-**[cite_start]**Impact:** Transformed a static configuration into a flexible, reusable, and maintainable Infrastructure as Code solution, demonstrating best practices in code organization **[cite: 370, 371]** and environment management.
+**[cite_start]**Impact:** Infrastructure de base pour application web simple avec sécurité renforcée, déploiement automatisé et documentation complète. Projet réalisé dans le cadre du Mastère Cybersécurité & Cloud Computing - IPSSI Nice **[cite: 370, 371]**.
 
 <br>
 
-#### **Project 1: Parametrizable Azure Infrastructure with Terraform**
+#### **Project 2: Parametrizable Azure Infrastructure with Terraform**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-solo&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-solo)
 
 **Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Nginx.
@@ -224,7 +224,7 @@ Long_Term_Vision:
 
 <br>
 
-#### **Project 2: AWS & Azure Secure Interconnection**
+#### **Project 3: AWS & Azure Secure Interconnection**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=aws-azure-interconnection&theme=tokyonight)](https://github.com/JuFiSec/aws-azure-interconnection)
 
 - **Tech Stack:** Terraform, GitHub Actions, Bash, AWS (EC2, VPC, S3, CloudWatch), Azure (SQL Database, Firewall, Monitor, Logic Apps), SSL/TLS.
@@ -232,7 +232,7 @@ Long_Term_Vision:
 - **Impact:** Engineered a production-ready, multi-cloud solution demonstrating advanced skills in IaC, automation, and secure networking. Achieved a fully automated deployment time of approximately 10 minutes, significantly reducing manual setup and configuration errors.
   
 
-#### **Project 3: Static Infrastructure Deployment on Azure with Terraform**
+#### **Project 4: Static Infrastructure Deployment on Azure with Terraform**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-tp1&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-tp1)
 
 - **Tech Stack:** Terraform, Microsoft Azure, Azure CLI, HCL (HashiCorp Configuration Language).
@@ -241,7 +241,7 @@ Long_Term_Vision:
 
 
 
-#### **Project 4: AWS Ecoshop Cloud Deployment**
+#### **Project 5: AWS Ecoshop Cloud Deployment**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=ecoshop-aws-deployment&theme=tokyonight)](https://github.com/JuFiSec/ecoshop-aws-deployment)
 - **Tech Stack:** AWS (VPC, EC2, RDS, ALB, SGs, NAT Gateway, IGW), Bash (for User Data), PHP, MySQL
 - **Features:** Multi-AZ high availability, Scalable web application infrastructure, Secure network segmentation (Public/Private subnets, Bastion Host), Automated deployment scripts (User Data)
