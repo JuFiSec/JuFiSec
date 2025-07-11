@@ -202,12 +202,26 @@ Long_Term_Vision:
 
 ### ☁️ Cloud & Infrastructure Projects
 
-#### **Project 1: Parametrizable Network Infrastructure on Azure**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=infrastructure-reseau-parametrable-terraform&theme=tokyonight)](https://github.com/JuFiSec/infrastructure-reseau-parametrable-terraform)
+#### **Project 1: Parametrizable Azure Infrastructure with Terraform**
+**[[README Card]](https://github.com/FIENI-DANNIE/terraform-azure-solo)** **[[Live Demo]](http://YOUR-VM-IP)** **[[Architecture Diagram]](screenshots/azure-architecture-diagram.jpg)**
 
-- **Tech Stack:** Terraform, Microsoft Azure, Azure CLI, HCL.
-- [cite_start]**Features:** Developed a fully parametrizable network infrastructure using Terraform variables [cite: 1, 4][cite_start], `outputs` [cite: 4][cite_start], and `.tfvars` files [cite: 5] to manage multiple environments (dev/prod).
-- [cite_start]**Impact:** Transformed a static configuration into a flexible, reusable, and maintainable IaC solution, demonstrating best practices in code organization [cite: 370, 371] and environment management.
+**Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Nginx.
+
+**[cite_start]**Features:** Developed a fully parametrizable cloud infrastructure using Terraform variables **[cite: 1, 4]**[cite_start], outputs **[cite: 4]**[cite_start], and `.tfvars` files **[cite: 5]** to manage multiple environments (dev/prod).
+
+**[cite_start]**Impact:** Transformed a static configuration into a flexible, reusable, and maintainable Infrastructure as Code solution, demonstrating best practices in code organization **[cite: 370, 371]** and environment management.
+
+<br>
+
+#### **Project 1: Parametrizable Azure Infrastructure with Terraform**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-solo&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-solo)
+
+**Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Nginx.
+
+**[cite_start]**Features:** Developed a fully parametrizable cloud infrastructure using Terraform variables **[cite: 1, 4]**[cite_start], outputs **[cite: 4]**[cite_start], and `.tfvars` files **[cite: 5]** to manage multiple environments (dev/prod).
+
+**[cite_start]**Impact:** Transformed a static configuration into a flexible, reusable, and maintainable Infrastructure as Code solution, demonstrating best practices in code organization **[cite: 370, 371]** and environment management.
+
 <br>
 
 #### **Project 2: AWS & Azure Secure Interconnection**
