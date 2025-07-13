@@ -214,7 +214,7 @@ Long_Term_Vision:
 <br>
 
 #### **Project 2: Parametrizable Azure Infrastructure with Terraform**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-solo&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-solo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-solo&theme=tokyonight)](https://github.com/JuFiSec/infrastructure-reseau-parametrable-terraform)
 
 **Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Nginx.
 
