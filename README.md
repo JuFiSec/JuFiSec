@@ -216,12 +216,11 @@ Long_Term_Vision:
 #### **Project 2: Parametrizable Azure Infrastructure with Terraform**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=infrastructure-reseau-parametrable-terraform&theme=tokyonight)](https://github.com/JuFiSec/infrastructure-reseau-parametrable-terraform)
 
-**Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Nginx.
+**Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Apache, PHP, MySQL.
 
-**[cite_start]**Features:** Developed a fully parametrizable cloud infrastructure using Terraform variables **[cite: 1, 4]**[cite_start], outputs **[cite: 4]**[cite_start], and `.tfvars` files **[cite: 5]** to manage multiple environments (dev/prod).
+**[cite_start]Features: Developed a fully parametrizable web infrastructure using Terraform variables [cite: 1, 4][cite_start], outputs [cite: 4][cite_start], and .tfvars files [cite: 5] to deploy VM, MySQL database, VNet, and storage account with automated deployment scripts.
 
-**[cite_start]**Impact:** Transformed a static configuration into a flexible, reusable, and maintainable Infrastructure as Code solution, demonstrating best practices in code organization **[cite: 370, 371]** and environment management.
-
+**[cite_start]Impact: Transformed a static configuration into a flexible, reusable, and maintainable Infrastructure as Code solution for complete web application hosting, demonstrating best practices in code organization [cite: 370, 371] and team collaboration.
 <br>
 
 #### **Project 3: AWS & Azure Secure Interconnection**
