@@ -26,8 +26,8 @@ name: "Dannie FIENI"
 role: "CyberSecurity Apprentice & Photographer"
 location: "France | International"
 education: "Masters in Cybersecurity & Cloud Computing (Currently) | IPSSI Nice"
-current_focus: ["Network Security", "Ethical Hacking", "Digital Forensics", "Portrait Photography"]
-technologies: ["Cloud Computing", "IaC (Terraform)", "AWS", "Azure", "Docker", "Cluster"]
+current_focus: ["Cloud Security", "Network Security", "Ethical Hacking", "Digital Forensics"]
+technologies: ["Docker", "Terraform (IaC)", "AWS", "Azure", "CI/CD", "Bash"]
 philosophy: "Security through knowledge, beauty through perspective"
 ```
 ---
@@ -201,6 +201,17 @@ Long_Term_Vision:
 ## 🚀 **FEATURED PROJECTS**
 
 ### ☁️ Cloud & Infrastructure Projects
+
+#### **Project 1: Complete Docker Compose Infrastructure for TODO App**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=todo-docker-infra&theme=tokyonight)](https://github.com/JuFiSec/todo-docker-infra)
+
+**Tech Stack:** Docker, Docker Compose, Python, Flask, PostgreSQL, Traefik, Prometheus, Grafana, GitHub Actions, Bash.
+
+**Features:** Engineered a complete, production-ready infrastructure with Docker Compose, featuring isolated networks, a full observability stack (Prometheus/Grafana), multi-stage Dockerfiles, and an automated CI/CD pipeline with GitHub Actions for testing & security scanning.
+
+**Impact:** Demonstrates end-to-end DevOps principles by delivering an observable, secure, and fully automated application environment from code to deployment. This project was completed as part of the Masters in Cybersecurity & Cloud Computing at IPSSI Nice.
+
+<br>
 
 #### **Project 1: TP Terraform Azure - Infrastructure de base**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-solo&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-solo)
