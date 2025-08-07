@@ -200,7 +200,7 @@ Long_Term_Vision:
 
 ## 🚀 **FEATURED PROJECTS**
 
-### ☁️ Cloud & Infrastructure Projects
+### 🐳 Docker & DevOps Projects
 
 #### **Project 1: Complete Docker Compose Infrastructure for TODO App**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=todo-docker-infra&theme=tokyonight)](https://github.com/JuFiSec/todo-docker-infra)
@@ -213,49 +213,119 @@ Long_Term_Vision:
 
 <br>
 
-#### **Project 1: TP Terraform Azure - Infrastructure de base**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-solo&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-solo)
+### ☁️ Cloud & Infrastructure (IaC) Projects
 
-**Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Nginx, Shell Script.
-
-**[cite_start]**Features:** Developed a fully parametrizable cloud infrastructure using Terraform variables **[cite: 1, 4]**[cite_start], outputs **[cite: 4]**[cite_start], and `.tfvars` files **[cite: 5]** to manage Azure environments with complete automation scripts.
-
-**[cite_start]**Impact:** Infrastructure de base pour application web simple avec sécurité renforcée, déploiement automatisé et documentation complète. Projet réalisé dans le cadre du Mastère Cybersécurité & Cloud Computing - IPSSI Nice **[cite: 370, 371]**.
-
-<br>
-
-#### **Project 2: Parametrizable Azure Infrastructure with Terraform**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=infrastructure-reseau-parametrable-terraform&theme=tokyonight)](https://github.com/JuFiSec/infrastructure-reseau-parametrable-terraform)
-
-**Tech Stack:** Terraform, Microsoft Azure, Azure CLI, Ubuntu 22.04 LTS, Apache, PHP, MySQL.
-
-**[cite_start]Features: Developed a fully parametrizable web infrastructure using Terraform variables [cite: 1, 4][cite_start], outputs [cite: 4][cite_start], and .tfvars files [cite: 5] to deploy VM, MySQL database, VNet, and storage account with automated deployment scripts.
-
-**[cite_start]Impact: Transformed a static configuration into a flexible, reusable, and maintainable Infrastructure as Code solution for complete web application hosting, demonstrating best practices in code organization [cite: 370, 371] and team collaboration.
-<br>
-
-#### **Project 3: AWS & Azure Secure Interconnection**
+#### **Project 2: AWS & Azure Secure Interconnection**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=aws-azure-interconnection&theme=tokyonight)](https://github.com/JuFiSec/aws-azure-interconnection)
 
-- **Tech Stack:** Terraform, GitHub Actions, Bash, AWS (EC2, VPC, S3, CloudWatch), Azure (SQL Database, Firewall, Monitor, Logic Apps), SSL/TLS.
-- **Features:** Complete Infrastructure as Code (IaC) setup using Terraform to provision resources across both AWS and Azure; Fully automated CI/CD pipeline with GitHub Actions for validation, testing, and deployment; Establishes a secure communication channel between an AWS EC2 instance and an Azure SQL Database; Integrated real-time monitoring and alerting using AWS CloudWatch and Azure Monitor.
-- **Impact:** Engineered a production-ready, multi-cloud solution demonstrating advanced skills in IaC, automation, and secure networking. Achieved a fully automated deployment time of approximately 10 minutes, significantly reducing manual setup and configuration errors.
-  
+**Tech Stack:** Terraform, GitHub Actions, AWS (EC2, VPC), Azure (SQL Database, Firewall), SSL/TLS.
 
-#### **Project 4: Static Infrastructure Deployment on Azure with Terraform**
+**Features:** A complete Infrastructure as Code (IaC) setup using Terraform to provision resources across both AWS and Azure, with a fully automated CI/CD pipeline for validation, testing, and deployment.
+
+**Impact:** Engineered a production-ready, multi-cloud solution that establishes a secure communication channel between AWS and Azure, demonstrating advanced skills in IaC, automation, and secure networking.
+
+<br>
+
+#### **Project 3: AWS Ecoshop Cloud Deployment**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=ecoshop-aws-deployment&theme=tokyonight)](https://github.com/JuFiSec/ecoshop-aws-deployment)
+
+**Tech Stack:** AWS (VPC, EC2, RDS, ALB, Security Groups, NAT Gateway), Bash, PHP, MySQL.
+
+**Features:** Deploys a multi-AZ, highly available, and scalable e-commerce infrastructure with secure network segmentation (Public/Private subnets, Bastion Host) and automated deployment scripts.
+
+**Impact:** Deployed a robust, fault-tolerant e-commerce application environment, demonstrating proficiency in cloud infrastructure design for critical applications.
+
+<br>
+
+#### **Project 4: Parametrizable Azure WebApp Infrastructure**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=terraform-azure-webapp-ipssi&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-webapp-ipssi)
+
+**Tech Stack:** Terraform, Microsoft Azure, HCL.
+
+**Features:** Deploys a complete and parametrizable web infrastructure on Azure using Terraform, including App Service Plan, Web App, and all necessary networking components.
+
+**Impact:** Demonstrates the ability to create flexible and reusable IaC solutions for deploying web applications on a major cloud platform.
+
+<br>
+
+#### **Project 5: Parametrizable Azure Network Infrastructure**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=infrastructure-reseau-parametrable-terraform&theme=tokyonight)](https://github.com/JuFiSec/infrastructure-reseau-parametrable-terraform)
+
+**Tech Stack:** Terraform, Microsoft Azure, HCL.
+
+**Features:** Developed a fully parametrizable web infrastructure using Terraform variables and outputs to deploy a VM, MySQL database, VNet, and storage account.
+
+**Impact:** Transformed a static configuration into a flexible, reusable, and maintainable Infrastructure as Code solution for web application hosting.
+
+<br>
+
+#### **Project 6: Azure Multi-VM Deployment with Terraform**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-vms-project&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-vms-project)
+
+**Tech Stack:** Terraform, Microsoft Azure, HCL.
+
+**Features:** An Infrastructure as Code project to automate the deployment of multiple virtual machines on Azure, configured for scalability and consistency.
+
+**Impact:** Demonstrates the ability to manage and scale compute resources on Azure programmatically, a core skill for cloud infrastructure management.
+
+<br>
+
+#### **Project 7: Azure Base Infrastructure with Terraform (Solo TP)**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-solo&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-solo)
+
+**Tech Stack:** Terraform, Microsoft Azure, HCL, Nginx, Shell Script.
+
+**Features:** Developed a fully parametrizable cloud infrastructure using Terraform variables to manage an Azure environment with automation scripts for a simple web application.
+
+**Impact:** Established a base infrastructure with enhanced security and automated deployment, completed for the Cybersecurity & Cloud Computing Masters.
+
+<br>
+
+#### **Project 8: Azure Static Infrastructure with Terraform (TP1)**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=JuFiSec&repo=terraform-azure-tp1&theme=tokyonight)](https://github.com/JuFiSec/terraform-azure-tp1)
 
-- **Tech Stack:** Terraform, Microsoft Azure, Azure CLI, HCL (HashiCorp Configuration Language).
-- **Features:** Defined and provisioned a resource group and a storage account on Azure using Terraform; Managed the complete resource lifecycle using core Terraform commands (`init`, `plan`, `apply`, `destroy`); Configured resource attributes such as location, performance tier, and replication type; Handled infrastructure modifications, including changing the region and adding tags; Simulated and corrected configuration drift.
-- **Impact:** Successfully deployed a reproducible and automated cloud infrastructure, demonstrating an understanding of fundamental IaC concepts and proficiency in using standard tools for managing resources on a major cloud platform.
+**Tech Stack:** Terraform, Microsoft Azure, HCL.
 
+**Features:** Defined and provisioned a foundational resource group and storage account on Azure, managing the complete resource lifecycle with core Terraform commands.
 
+**Impact:** Successfully deployed a reproducible and automated cloud infrastructure, demonstrating an understanding of fundamental IaC concepts for managing resources on Azure.
 
-#### **Project 5: AWS Ecoshop Cloud Deployment**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=ecoshop-aws-deployment&theme=tokyonight)](https://github.com/JuFiSec/ecoshop-aws-deployment)
-- **Tech Stack:** AWS (VPC, EC2, RDS, ALB, SGs, NAT Gateway, IGW), Bash (for User Data), PHP, MySQL
-- **Features:** Multi-AZ high availability, Scalable web application infrastructure, Secure network segmentation (Public/Private subnets, Bastion Host), Automated deployment scripts (User Data)
-- **Impact:** Deployed a robust, fault-tolerant e-commerce application environment, demonstrating proficiency in cloud infrastructure setup and management.
+<br>
+
+### 🐧 Linux, Docker & System Administration Projects
+
+#### **Project 9: Linux Server Hardening Script**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=linux-hardening&theme=tokyonight)](https://github.com/JuFiSec/linux-hardening)
+
+**Tech Stack:** Bash, UFW, Fail2Ban, SSH.
+
+**Features:** Automates the security hardening of Debian/Ubuntu servers, configuring SSH settings, UFW firewall rules, and installing Fail2Ban for brute-force protection.
+
+**Impact:** Provides a reusable and rapid deployment script to significantly improve the baseline security of any new Linux server instance, demonstrating key system administration and security automation skills.
+
+<br>
+
+#### **Project 10: Automated Linux Backup Utility**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=linux-backup-script&theme=tokyonight)](https://github.com/JuFiSec/linux-backup-script)
+
+**Tech Stack:** Bash, Cron, System Administration.
+
+**Features:** A configurable Bash utility for automating system backups. Implements DevOps concepts such as parameter-driven execution, logging, and scheduling via cron jobs.
+
+**Impact:** Showcases practical DevOps skills by creating an automation tool for a critical system administration task, reducing manual effort and the risk of data loss.
+
+<br>
+
+#### **Project 11: Dockerized Nginx Static Website**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JuFiSec&repo=nginx-static-site&theme=tokyonight)](https://github.com/JuFiSec/nginx-static-site)
+
+**Tech Stack:** Docker, Nginx, HTML.
+
+**Features:** A simple yet effective containerization of a static HTML website using Docker and Nginx, demonstrating fundamental container concepts.
+
+**Impact:** Provides a portable and easily deployable web server environment, perfect for simple web applications and showcasing an understanding of basic containerization.
+
+<br>
 
 ### 📸 **Photography Projects**
 
